@@ -1,4 +1,4 @@
-# Numerical Experiments: State-Agnostic Quantum Work Extraction
+# Numerical Experiments: Quantum Work Extraction from QHMM
 This repository contains the Python script used to perform the numerical experiments detailed in Section 9 of the paper "Reinforcement learning for quantum processes with memory". The code simulates an agent extracting thermodynamic work from a quantum hidden Markov model (QHMM).
 
 ## Overview
